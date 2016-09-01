@@ -4,6 +4,7 @@
 		"name": "A text",
 		"description": "A textbox with a required value",
 		"example": "Input text here",
+		"required": true,
 		"type": "text"
 	}, {
 		"key": "text_with_default",
