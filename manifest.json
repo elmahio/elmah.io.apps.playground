@@ -1,0 +1,54 @@
+{
+	"variables": [{
+		"key": "text",
+		"name": "A text",
+		"description": "A textbox with a required value",
+		"example": "Input text here",
+		"type": "text"
+	}, {
+		"key": "text_with_default",
+		"name": "Text with default",
+		"description": "A textbox with default value",
+		"example": "Input text here",
+		"default": "This is the default value",
+		"type": "text"
+	}, {
+		"key": "number",
+		"name": "Number",
+		"description": "A number box",
+		"example": "Input number here",
+		"type": "number"
+	}, {
+		"key": "number_with_default",
+		"name": "Number with default",
+		"description": "A number with default value",
+		"example": "Input number here",
+		"default": 42,
+		"type": "number"
+	}, {
+		"key": "checkbox",
+		"name": "Checkbox",
+		"description": "A checkbox",
+		"type": "checkbox"
+	}, {
+		"key": "checkbox_with_default",
+		"name": "Checkbox with default",
+		"description": "A checkbox with default value",
+		"default": true,
+		"type": "checkbox"
+	}, {
+		"key": "select",
+		"name": "Select",
+		"description": "A select box",
+		"example": "Two",
+		"type": "select",
+		"Values": ["One", "Two", "Three"]
+	}, {
+		"key": "select_with_default",
+		"name": "Select with default",
+		"description": "A select with default value",
+		"default": "Three",
+		"type": "select",
+		"Values": ["One", "Two", "Three"]		
+	}]
+}
