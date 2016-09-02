@@ -27,29 +27,28 @@
 		"default": 42,
 		"type": "number"
 	}, {
-		"key": "checkbox",
-		"name": "Checkbox",
-		"description": "A checkbox",
-		"type": "checkbox"
+		"key": "bool",
+		"name": "Bool",
+		"description": "A boolean",
+		"type": "bool"
 	}, {
-		"key": "checkbox_with_default",
-		"name": "Checkbox with default",
-		"description": "A checkbox with default value",
+		"key": "bool_with_default",
+		"name": "Bool with default",
+		"description": "A bool with default value",
 		"default": true,
-		"type": "checkbox"
+		"type": "bool"
 	}, {
-		"key": "select",
-		"name": "Select",
-		"description": "A select box",
-		"example": "Two",
-		"type": "select",
+		"key": "choice",
+		"name": "Choice",
+		"description": "A choice box",
+		"type": "choice",
 		"Values": ["One", "Two", "Three"]
 	}, {
-		"key": "select_with_default",
-		"name": "Select with default",
-		"description": "A select with default value",
+		"key": "choice_with_default",
+		"name": "Choice with default",
+		"description": "A choice box with default value",
 		"default": "Three",
-		"type": "select",
+		"type": "choice",
 		"Values": ["One", "Two", "Three"]		
 	}]
 }
