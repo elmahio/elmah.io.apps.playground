@@ -10,14 +10,12 @@
 		"key": "text_with_default",
 		"name": "Text with default",
 		"description": "A textbox with default value",
-		"example": "Input text here",
 		"default": "This is the default value",
 		"type": "text"
 	}, {
 		"key": "number",
 		"name": "Number",
 		"description": "A number box",
-		"example": "Input number here",
 		"type": "number"
 	}, {
 		"key": "number_with_default",
