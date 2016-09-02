@@ -23,7 +23,7 @@
 		"key": "number_with_default",
 		"name": "Number with default",
 		"description": "A number with default value",
-		"example": "Input number here",
+		"example": 42,
 		"default": 42,
 		"type": "number"
 	}, {
