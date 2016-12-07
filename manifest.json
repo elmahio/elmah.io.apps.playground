@@ -1,9 +1,4 @@
 {
-	"controls": [{
-		"type": "button",
-		"text": "Daily Dilbert",
-		"url": "http://dilbert.com/"
-	}],
 	"variables": [{
 		"key": "text",
 		"name": "A text",
@@ -53,5 +48,9 @@
 		"default": "Three",
 		"type": "choice",
 		"Values": ["One", "Two", "Three"]		
+	}, {
+		"key": "token",
+		"name": "Token",
+		"type": "slackToken"
 	}]
 }
