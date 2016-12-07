@@ -1,4 +1,9 @@
 {
+	"controls": [{
+		"type": "button",
+		"text": "Daily Dilbert",
+		"url": "http://dilbert.com/"
+	}],
 	"variables": [{
 		"key": "text",
 		"name": "A text",
