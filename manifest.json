@@ -48,9 +48,5 @@
 		"default": "Three",
 		"type": "choice",
 		"Values": ["One", "Two", "Three"]		
-	}, {
-		"key": "token",
-		"name": "Token",
-		"type": "slackToken"
 	}]
 }
