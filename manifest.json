@@ -48,5 +48,11 @@
 		"default": "Three",
 		"type": "choice",
 		"Values": ["One", "Two", "Three"]		
+	}, {
+		"key": "password",
+		"name": "A password",
+		"description": "A password field",
+		"required": true,
+		"type": "password"
 	}]
 }
