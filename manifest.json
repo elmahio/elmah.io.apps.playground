@@ -1,4 +1,5 @@
 {
+	"helpUrl": "https://docs.elmah.io/creating-apps-for-elmah-io/",
 	"variables": [{
 		"key": "text",
 		"name": "A text",
