@@ -6,6 +6,7 @@
     <owners>elmah.io</owners>
     <id>elmah.io.apps.playground</id>
     <title>Playground</title>
+    <license type="expression">Apache-2.0</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A playground for developing apps for elmah.io showing the various possibilities.</description>
     <projectUrl>https://elmah.io/</projectUrl>
